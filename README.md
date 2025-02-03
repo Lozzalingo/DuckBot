@@ -9,7 +9,7 @@ DuckBot is a mix of Python, SQLite, and AI, with a simple web interface to make 
 ## Features
 
 - **Duck Boy Character**: A fun AI persona based on a quirky, humorous superhero duck.
-- **Retrieval-Augmented Generation (RAG)**: Combines information retrieval from a local SQLite database and AI-generated responses for a more accurate and personalized reply.
+- **Retrieval-Augmented Generation (RAG)**: Combines information retrieval from a local SQLite database and AI-generated responses for a more accurate and personalised reply.
 - **AI-powered Responses**: Using the **Sentence Transformer** model, DuckBot understands the input and provides intelligent answers based on stored data.
 - **Web Interface**: A simple, interactive web page where you can chat with DuckBot.
 
@@ -132,7 +132,7 @@ This process ensures DuckBot can give both factual and witty answers!
 - **Sentence Transformers**: Used for converting input text into embeddings for similarity-based responses.
 - **HTML/CSS/JavaScript**: Frontend interface for interaction.
 - **PHP**: Simple server-side scripting to interface between the frontend and the backend.
-- **Retrieval-Augmented Generation (RAG)**: Combines fact retrieval from the database with AI-driven text generation for more contextually relevant and personalized responses.
+- **Retrieval-Augmented Generation (RAG)**: Combines fact retrieval from the database with AI-driven text generation for more contextually relevant and personalised responses.
 
 ## Contributing
 
