@@ -1,4 +1,4 @@
-# DuckBot AI🦆
+# DuckBot AI 🦆
 
 <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/duckbot.webp" alt="DuckBot" width="150"/>
 
