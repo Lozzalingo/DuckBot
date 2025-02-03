@@ -83,7 +83,7 @@ DuckBot uses an SQLite database to store facts about Duck Boy. Run the `dbcreato
 ```bash
 python dbcreator.py
 ```
-### 6. **Run the Precompute Embeddings Mododule**
+### 6. **Run the Precompute Embeddings Module**
 Before you can retrieve facts based on user queries, you need to precompute the embeddings for these facts. This allows DuckBot to **compare** the user’s input with the stored data more effectively, using cosine similarity.
 
 Run the `precomputeembeddings.py` script to update the database with the embeddings for the facts you've created in the dbcreator.py. This step ensures that DuckBot can quickly find relevant answers to queries by comparing the user’s input with the precomputed embeddings.
