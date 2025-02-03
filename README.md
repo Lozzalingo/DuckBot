@@ -157,5 +157,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Thanks to [Sentence Transformers](https://www.sbert.net/) for the embeddings model.
 - Special thanks to **Laurence Spellman** for creating Duck Boy during a Christmas party game!
