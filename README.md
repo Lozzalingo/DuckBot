@@ -105,6 +105,8 @@ php -S localhost:8000
 ### 8. **Access the Web Interface**
 Once the server is running, open your browser and visit `http://localhost:8000/index.html`. You should see the DuckBot interface where you can type prompts and get responses.
 
+## Example
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.gif" alt="DuckBot" width="300"/>
 </p>
