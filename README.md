@@ -1,13 +1,7 @@
-# DuckBot AI 🦆
+# DuckBot AI🦆
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/duckbot.webp" alt="DuckBot" width="150"/>
 
-  <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/duckbot.webp" alt="DuckBot" width="150"/>
-</p> 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.gif" alt="DuckBot" width="300"/>
-</p>
 
 
 DuckBot is a fun and interactive AI-powered bot that helps you with various tasks while embodying the charming character of Duck Boy, a superhero duck. Built using **Retrieval-Augmented Generation (RAG)**, DuckBot pulls relevant facts from a local database and generates dynamic, character-driven responses powered by a state-of-the-art AI model. 
@@ -110,6 +104,10 @@ php -S localhost:8000
 
 ### 8. **Access the Web Interface**
 Once the server is running, open your browser and visit `http://localhost:8000/index.html`. You should see the DuckBot interface where you can type prompts and get responses.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.gif" alt="DuckBot" width="300"/>
+</p>
 
 ## Usage
 
