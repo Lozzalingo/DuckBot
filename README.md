@@ -6,13 +6,13 @@
 
 DuckBot is a fun and interactive AI-powered bot that helps you with various tasks while embodying the charming character of Duck Boy, a superhero duck. Built using **Retrieval-Augmented Generation (RAG)**, DuckBot pulls relevant facts from a local database and generates dynamic, character-driven responses powered by a state-of-the-art AI model. 
 
-DuckBot is a mix of Python, SQLite, and AI, with a simple web interface to make it easy to interact with.
+DuckBot was built using a mix of Python, SQLite, and Ollama for the backend, with a simple web interface frontend that uses HTML, JavaScript, and PHP to make interaction easy. DuckBot can be run locally on any machine with the appropriate hardware to support Ollama and the required model.
 
 ## Features
 
 - **Duck Boy Character**: A fun AI persona based on a quirky, humorous superhero duck.
 - **Retrieval-Augmented Generation (RAG)**: Combines information retrieval from a local SQLite database and AI-generated responses for a more accurate and personalised reply.
-- **AI-powered Responses**: Using the **Sentence Transformer** model, DuckBot understands the input and provides intelligent answers based on stored data.
+- **AI-powered Responses**: Using **Ollama** with **Llamda3.2 70B** as the default model, DuckBot understands the input and provides intelligent answers based on prompts combined with stored data.
 - **Web Interface**: A simple, interactive web page where you can chat with DuckBot.
 
 ## Installation
