@@ -52,7 +52,7 @@ ollama pull llama3.2:latest
 ```
 
 ### 3. **Clone the repository**
-Start by cloning the DuckBot repository to your local machine. Open your terminal and run the following command:
+Clone the DuckBot repository to your local machine. Open your terminal and run the following command:
 
 ```bash
 git clone https://github.com/your-username/DuckBot.git
