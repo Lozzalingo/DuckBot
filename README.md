@@ -17,7 +17,7 @@ DuckBot is a mix of Python, SQLite, and AI, with a simple web interface to make 
 
 ## Automated Installation Script
 
-To install all necessary dependencies, including Python, Ollama, and the Llama 3.2 model, you can use the provided `install.sh` script. However, a word of caution: The script was written by chat GPT, and I haven't tested it. So if it doesn't work, follow the steps in the step-by-step installation part.
+To install all necessary dependencies, including Python, Ollama, and the Llama 3.2 model, you can use the provided `install.sh` script. However, a word of caution: The script was written by chat GPT, and I haven't tested it. So if it doesn't work, follow the steps in the step-by-step installation section.
 
 ### 1. **Run the Installation Script**
 
