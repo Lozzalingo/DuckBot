@@ -2,6 +2,9 @@
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/duckbot.webp" alt="DuckBot" width="150"/>
+</div> 
+
+<div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.gif" alt="DuckBot" width="300"/>
 </div>
 
