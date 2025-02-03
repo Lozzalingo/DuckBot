@@ -2,7 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/duckbot.webp" alt="DuckBot" width="150"/>
 
-[Watch the DuckBoyExampleVideo](https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.mov)
+<video width="320" height="240" controls>
+  <source src="https://raw.githubusercontent.com/Lozzalingo/DuckBot/refs/heads/main/images/DuckBoyExampleVideo.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 DuckBot is a fun and interactive AI-powered bot that helps you with various tasks while embodying the charming character of Duck Boy, a superhero duck. Built using **Retrieval-Augmented Generation (RAG)**, DuckBot pulls relevant facts from a local database and generates dynamic, character-driven responses powered by a state-of-the-art AI model. 
 
